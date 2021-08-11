@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: Juff-Ma/Juff-Ma.github.io # Path to your GitHub repository
-  # optional, defaults to master
+  name: git-gateway
   branch: main
   
   publish_mode: editorial_workflow

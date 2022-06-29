@@ -1,3 +1,35 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://juffma.de/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Juff-Ma Homepage'
+theme = "shell"
+[Params]
+    description = "Juff-Ma's Homepage"
+    [Params.Terminal]
+        scheme = "Peppermint"
+
+        userName = "juffma"
+        pcName = "juffma.de"
+        workDir = "infos"
+        profile = "myself.txt"
+
+        ps1Delay = 1
+        stdoutDelay = 2 
+        commandDelay = 50
+
+        titleDelay = 2
+        contentDelay = 10
+
+        description = """
+        Hello i'm Juff-Ma,
+        a Programmer and You-Tuber from Germany
+        """
+    [Params.Tree]
+        use = true
+        folderName = "my_stuff"
+        # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
+        files = [ 
+            ["C#/.NET", "https://www.example.com/"],
+            ["Java", "https://www.example.com/"],
+            ["C++", "https://golang.org/"],
+            ["Linux", "/post/some-activity.md"],
+        ]

@@ -1,7 +1,3 @@
 [submodule "themes/shell"]
 	path = themes/shell
 	url = https://github.com/Yukuro/hugo-theme-shell.git
-[submodule "public"]
-	path = public
-	url = https://github.com/Juff-Ma/Juff-Ma.github.io.git
-	branch = public

@@ -30,6 +30,6 @@ theme = "shell"
         files = [ 
             ["C#/.NET", "https://www.example.com/"],
             ["Java", "https://www.example.com/"],
-            ["C++", "https://golang.org/"],
-            ["Linux", "/post/some-activity.md"],
+            ["C++", "https://www.example.com/"],
+            ["Linux", "https://www.example.com/"],
         ]

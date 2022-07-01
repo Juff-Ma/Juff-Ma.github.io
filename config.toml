@@ -13,11 +13,11 @@ theme = "shell"
         profile = "myself.txt"
 
         ps1Delay = 1
-        stdoutDelay = 2 
-        commandDelay = 50
+        stdoutDelay = 1 
+        commandDelay = 15
 
         titleDelay = 2
-        contentDelay = 10
+        contentDelay = 7
 
         description = """
         Hello i'm Juff-Ma,
@@ -28,8 +28,8 @@ theme = "shell"
         folderName = "my_stuff"
         # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
         files = [ 
-            ["C#/.NET", "https://www.example.com/"],
-            ["Java", "https://www.example.com/"],
-            ["C++", "https://www.example.com/"],
-            ["Linux", "https://www.example.com/"],
+            ["C#/.NET", "/csharp/main"],
+            ["Java", "/java/main"],
+            ["C++", "/cpp/main"],
+            ["Linux", "/linux/main"],
         ]

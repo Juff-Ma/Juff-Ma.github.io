@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javae on Juff-Ma Homepage</title>
+    <link>https://juffma.de/java/</link>
+    <description>Recent content in Javae on Juff-Ma Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 18:32:10 +0200</lastBuildDate><atom:link href="https://juffma.de/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java - Main</title>
+      <link>https://juffma.de/java/main/</link>
+      <pubDate>Fri, 01 Jul 2022 18:32:10 +0200</pubDate>
+      
+      <guid>https://juffma.de/java/main/</guid>
+      <description>Nothing really to show here&amp;hellip; You could just see unfinished projects on my github.
+Unless you are interested in Minecraft, then i have some bugfixes for mods that i like:
+Dissolution (1.12.2 version of Requiem): fixes not starting up with aether lecacy. AlchemyTrinkets: fixes not starting up (general Error, i do not know if this even happens to others) </description>
+    </item>
+    
+  </channel>
+</rss>

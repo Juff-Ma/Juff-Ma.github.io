@@ -2,9 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://juffma.de/categories/</loc>
+    <loc>https://juffma.de/linux/main/</loc>
+    <lastmod>2022-07-01T18:32:26+02:00</lastmod>
   </url><url>
     <loc>https://juffma.de/</loc>
+    <lastmod>2022-07-01T18:32:26+02:00</lastmod>
+  </url><url>
+    <loc>https://juffma.de/linux/</loc>
+    <lastmod>2022-07-01T18:32:26+02:00</lastmod>
+  </url><url>
+    <loc>https://juffma.de/cpp/main/</loc>
+    <lastmod>2022-07-01T18:32:20+02:00</lastmod>
+  </url><url>
+    <loc>https://juffma.de/cpp/</loc>
+    <lastmod>2022-07-01T18:32:20+02:00</lastmod>
+  </url><url>
+    <loc>https://juffma.de/java/main/</loc>
+    <lastmod>2022-07-01T18:32:10+02:00</lastmod>
+  </url><url>
+    <loc>https://juffma.de/java/</loc>
+    <lastmod>2022-07-01T18:32:10+02:00</lastmod>
+  </url><url>
+    <loc>https://juffma.de/csharp/main/</loc>
+    <lastmod>2022-07-01T18:32:00+02:00</lastmod>
+  </url><url>
+    <loc>https://juffma.de/csharp/</loc>
+    <lastmod>2022-07-01T18:32:00+02:00</lastmod>
+  </url><url>
+    <loc>https://juffma.de/categories/</loc>
   </url><url>
     <loc>https://juffma.de/tags/</loc>
   </url>

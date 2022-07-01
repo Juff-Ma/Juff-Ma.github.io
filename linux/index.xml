@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linuxes on Juff-Ma Homepage</title>
+    <link>https://juffma.de/linux/</link>
+    <description>Recent content in Linuxes on Juff-Ma Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 18:32:26 +0200</lastBuildDate><atom:link href="https://juffma.de/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java - Main</title>
+      <link>https://juffma.de/linux/main/</link>
+      <pubDate>Fri, 01 Jul 2022 18:32:26 +0200</pubDate>
+      
+      <guid>https://juffma.de/linux/main/</guid>
+      <description>Nothing really to show here&amp;hellip; You could just see unfinished projects on my github.</description>
+    </item>
+    
+  </channel>
+</rss>

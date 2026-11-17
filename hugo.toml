@@ -5,3 +5,41 @@ theme = 'rusty-typewriter'
 locale = 'en-us'
 
 enableRobotsTXT = true
+
+# rtwt = Rusty Typewriter Theme
+[params.rtwt.side.home]
+taxonomies = ['tags', 'topics']
+countTaxonomy = 4
+
+[taxonomies]
+tag = 'tags'
+topic = 'topics'
+
+[params.author]
+name = 'Julian Roßbach'
+
+[[menus.main]]
+name = 'Blog'
+pageRef = '/posts'
+weight = 1
+
+[[menus.main]]
+name = 'Projects'
+pageRef = '/projects'
+weight = 2
+
+# build search index ================
+[outputFormats]
+ [outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "searchindex"
+  isPlainText = true
+  notAlternative = true
+
+[mediaTypes]
+ [mediaTypes."application/json"]
+  suffixes = ["json"]
+
+[outputs]
+ home = ["HTML","RSS","SearchIndex"]
+# ===================================

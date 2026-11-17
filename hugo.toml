@@ -1,0 +1,7 @@
+baseURL = 'https://juffma.de/'
+title = 'Julian Rossbach'
+
+theme = 'rusty-typewriter'
+locale = 'en-us'
+
+enableRobotsTXT = true

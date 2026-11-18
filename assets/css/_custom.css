@@ -1,0 +1,38 @@
+:root {
+
+  --font-family-main: "Lato", sans-serif;
+  --font-weight-main: 500;
+  --font-family-content: "Lato", serif;
+  --font-weight-content: 500;
+  --font-family-summary: "Lato", serif;
+  --font-weight-summary: 500;
+
+  --dim-color: #88888844;
+  --hover-dim-color: #fff;
+
+  --quote-text-color: #888989;
+  --code-background-color: #303330;
+  --code-text-color: #eaf0fa;
+}
+
+:root[color-scheme^='light'] {
+  --body-text-color: #222;
+  --body-background-color: #eff0ea;
+
+  --primary-color: #3c9e49;
+  --selection-color: #9bddac;
+
+  --dim-opacity: 65%;
+}
+
+:root[color-scheme^='dark'] {
+  --color-scheme: dark; /* fixes scrollbar color on google chrome */
+
+  --body-text-color: #eff0ea;
+  --body-background-color: #222;
+
+  --primary-color: #358640;
+  --selection-color: #417d53;
+
+  --dim-opacity: 50%;
+}
